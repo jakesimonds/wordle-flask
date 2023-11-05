@@ -18,6 +18,8 @@ def check_win(secret_word, guess_word):
     else:
         return False
     
+zip('hello', 'hello')
+
 
 
 
